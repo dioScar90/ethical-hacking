@@ -1,5 +1,7 @@
 # Ethical Hacking
 
+This repository is for my personal annotations of a Ethical Hacking's course I'm trying to learn. The course become from [this video](https://www.youtube.com/watch?v=w0bDZOggIYg). 
+
 ## Preparation
 
 ### Virtual Box
